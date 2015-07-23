@@ -6,6 +6,8 @@ body{
 
 .pups{
   width: 100%;
+  border: 13px solid silver;
+  border-style: groove;
 }
 
 h2.pups{
@@ -19,8 +21,4 @@ div{
   width: 50%;
   min-width: 300px;
   max-width: 500px;
-}
-
-.borderpics{
-    border: 3px solid black;
 }
